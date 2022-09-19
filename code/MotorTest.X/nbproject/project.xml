@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>MotorTest</name>
+            <creation-uuid>9e98f97b-2b81-439b-b5f5-7086facb58ec</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>../lib/includes</sourceRootElem>
+                <sourceRootElem>../lib/src</sourceRootElem>
+                <sourceRootElem>../ECE118</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>HelloWorld</name>
+                    <type>2</type>
+                </confElem>
+                <confElem>
+                    <name>TEST_MOTOR</name>
+                    <type>2</type>
+                </confElem>
+                <confElem>
+                    <name>TEST_MOVE</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
