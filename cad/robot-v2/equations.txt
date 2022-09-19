@@ -1,0 +1,4 @@
+﻿"MDF"= 0.2in
+"Foamcore"= 0.2in
+"BaseWidth"= 9in
+"BaseLength"= 9in

@@ -1,0 +1,7 @@
+﻿"TubeR"= 0.8in
+"Foamcore"= 0.2in
+"MDF"= 0.2in
+"NutD"= 0.2145in
+"NutH"= 0.0915in
+"MountScrewL"= 0.3in
+"MountScrewD"= 3.6mm
