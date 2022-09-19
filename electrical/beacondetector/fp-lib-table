@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "digikey-footprints")(type "KiCad")(uri "C:/Users/jtmadden/repos/lab2/beacon-detector/digikey-kicad-library-master/digikey-footprints.pretty")(options "")(descr ""))
+)
